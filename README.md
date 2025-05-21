@@ -32,7 +32,8 @@ Abrir una terminal Git Bash y escribir el siguiente comando:
 ```
 node app.js
 ```
-para ver la página es ir a **localhost:3000** en tu navegador.
+una vez iniciado el servidor, para ver la página es ir a tu navegador y a la URL "**localhost:**" y el puerto que hayas puesto en `app.listen(3000, ()=>{`... (3000 sería el puerto pero puede ser otro), entonces en este caso sería **localhost:3000**.
+
 
 ## 🛠 Cosas a modificar dentro del código
 En el apartado de rutas dentro de `app.js` se tendrán que modificar a que archivos HTML te redirige
