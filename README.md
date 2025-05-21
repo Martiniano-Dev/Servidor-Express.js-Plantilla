@@ -26,7 +26,11 @@ Carpeta raíz/
 ├── app.js
 ├── package.lock.json
 └── package.json
+└── LICENCE
+└── README.md
 ```
+*Nota: los archivos* `LICENCE` *y* `README.md` *son provenientes de la información del proyecto pero no es código*
+
 ## 🖥 Como iniciar y usar
 Abrir una terminal Git Bash y escribir el siguiente comando:
 ```
