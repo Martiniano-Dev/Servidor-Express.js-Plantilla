@@ -5,7 +5,7 @@
 
 Ahora con el código descargado, en una terminal Git Bash ejecutar el siguiente comando:
 ```
-npm cl
+npm ci
 ```
 
 Esto descargará las dependencias necesarias (Express y Nodemon)
