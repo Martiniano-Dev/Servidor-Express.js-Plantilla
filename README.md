@@ -29,7 +29,7 @@ Carpeta raíz/
 └── LICENCE
 └── README.md
 ```
-*Nota: los archivos* `LICENCE` *y* `README.md` *son provenientes de la información del proyecto pero no es código*
+*Nota: los archivos* `LICENCE` *y* `README.md` *son provenientes de la información del proyecto pero no son necesarios para la función del servidor*
 
 ## 🖥 Como iniciar y usar
 Abrir una terminal Git Bash y escribir el siguiente comando:
